@@ -66,7 +66,7 @@ export default function ResumeSection() {
     {
       id: "edu-1",
       degree: "S1 Ilmu Komputer",
-      institution: "Universitas XYZ",
+      institution: "Universitas Lampung",
       period: "2024 – Present",
       gpa: "3.68 / 4.00",
     },
